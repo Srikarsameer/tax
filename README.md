@@ -23,8 +23,8 @@ This is a tax calculator and this site follows requirements like:
 
 ![Screenshot 2024-04-11 101824](https://github.com/Srikarsameer/tax_calculator/assets/162862808/b4b72abb-5846-4a31-b89d-e1c84e4d45ae)
 ![Screenshot 2024-04-13 173520](https://github.com/Srikarsameer/tax_calculator/assets/162862808/24cd7afb-8bbc-4424-9fde-81a57a7e8c8e)
-![Screenshot 2024-04-13 173439](https://github.com/Srikarsameer/tax_calculator/assets/162862808/6e3cce63-cc53-4bcb-8408-b82495f950e7)
 ![Screenshot 2024-04-13 173420](https://github.com/Srikarsameer/tax_calculator/assets/162862808/7abc741e-6d9b-499e-9126-ea54d9057aeb)
+![Screenshot 2024-04-13 173439](https://github.com/Srikarsameer/tax_calculator/assets/162862808/6e3cce63-cc53-4bcb-8408-b82495f950e7)
 ![Screenshot 2024-04-13 173534](https://github.com/Srikarsameer/tax_calculator/assets/162862808/0d4e4448-eb15-43c1-96c5-ee6d76413b2e)
 ![Screenshot 2024-04-13 173610](https://github.com/Srikarsameer/tax_calculator/assets/162862808/5bf8bf65-3ae7-4dc4-8425-ea4fe7465703)
 ![Screenshot 2024-04-13 173836](https://github.com/Srikarsameer/tax_calculator/assets/162862808/443a3ebd-c952-439d-a7a7-e7e5d58b58e4)
