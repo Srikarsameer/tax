@@ -20,3 +20,4 @@ This is a tax calculator and this site follows requirements like:
     - If user has not entered this value and clicks on submit, show a error icon hovering over which should show that input field is mandatory
 - Error icons should not be visible in the form by default.
 - Clicking on submit should show a modal which would show the final values based on above calculations.
+![Screenshot 2024-04-11 101824](https://github.com/Srikarsameer/tax_calculator/assets/162862808/ca6d7bfb-192e-4aa0-a9ec-b067041b4b99)
