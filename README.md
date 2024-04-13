@@ -29,7 +29,4 @@ This is a tax calculator and this site follows requirements like:
 ![Screenshot 2024-04-13 173610](https://github.com/Srikarsameer/tax_calculator/assets/162862808/5bf8bf65-3ae7-4dc4-8425-ea4fe7465703)
 ![Screenshot 2024-04-13 173836](https://github.com/Srikarsameer/tax_calculator/assets/162862808/443a3ebd-c952-439d-a7a7-e7e5d58b58e4)
 
-
-
-
-
+[Link](https://tax-calculator-aokvqrm3v-srikarsameers-projects.vercel.app/)
